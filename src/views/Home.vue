@@ -12,13 +12,13 @@
 							<h3>Hey There !</h3>
 							<h1 class="text-uppercase">I am KATHEESH</h1>
 							<h5 class="text-uppercase">Software Engineer & Entrepreneur</h5><br>
-							<h6><strong>❤️ Efficiency consists in a resolute mind.</strong></h6>
+							<h6><strong>❤️ Efficiency consists in a resolute mind.</strong></h6> <br>
 							<github-button href="https://github.com/katheesh" data-size="large" data-show-count="true" aria-label="Follow @katheesh on GitHub">katheesh</github-button>
 							<div style="margin-top: 30px; margin-bottom: 20px;">
 							    <a target="_blank" href="https://www.npmjs.com/package/vue-mailer"><img height="30" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJcAAAA7CAMAAABBn+jeAAAAJFBMVEX////LODfJKCfot7bgmJfOSUnFAADuy8v14eHGEA7kqKfXdXRcp15cAAAA+0lEQVRoge3Z4Q7CIAwEYCiMse3939cYwSUlpaCSkXn3y7Bb/WaiJmDsnDFXA4TA1Re4+jK9i9SMaIq3Zhd5p4UGNHk8cddqtITe5hbVJs9auNwAl97kcXDBBVfFdX7XNVfRFF2Rv3ovNLhs2J4JXnVRau6q61U8mzEvZFiDa0kXdFceobuIvVncUhMuuOCCCy644Pp3F83pOlIca17tKgIXXHDd01XMyC7+a/nN/hd3Ge4q9r/swmP5FfkJpFubZ9qi0b/vK/4//jRw9QWuvkzr6j6KqLg+ON+QYnxzxFOMzDraZ6nhz15JkD6VvL7rM0Yk2Hrggguum7oeyc0jXd/03kcAAAAASUVORK5CYII="><a target="_blank" href="https://www.npmjs.com/package/@katheesh/mailer-js"><pre style="display: inline; font-size: 15px"> @katheesh/mailer-js </pre></a>&<a target="_blank" href="https://www.npmjs.com/package/vue-mailer"><pre style="display: inline; font-size: 15px"> vue-mailer </pre></a>Package Collaborator </a>
 						    </div>
 
-							<a href="https://www.patreon.com/bePatron?u=32135007" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
+							<a href="https://www.patreon.com/bePatron?u=32135007"><img src="https://i.ya-webdesign.com/images/patreon-link-button-png-2.png" height="100"></a>
 
 							<div class="social_icons my-5">
 								<a target="_blank" href="https://www.twitter.com/iKatheesh"><i class="ti-twitter"></i></a>
@@ -51,7 +51,7 @@
 				</div>
 				<div class="col-lg-2 col-md-3">
 					<div class="statistics_item">
-						<h3><span class="counter">2</span>+</h3>
+						<h3><span class="counter">5</span>+</h3>
 						<p>Open Source Projects</p>
 					</div>
 				</div>
@@ -153,56 +153,112 @@
 			<div class="filters portfolio-filter">
 				<ul>
 					<li class="active" data-filter="*">all</li>
-					<li data-filter=".popular">popular</li>
-					<li data-filter=".latest"> latest</li>
-					<li data-filter=".following">following</li>
-					<li data-filter=".upcoming">upcoming</li>
+					<li data-filter=".popular">Popular</li>
+					<li data-filter=".front">Front-End Design</li>
+					<li data-filter=".back">Backend Dashboards</li>
+					<li data-filter=".package">Packages</li>
 				</ul>
 			</div>
 
 			<div class="filters-content">
 				<div class="row portfolio-grid">
-					<div class="grid-sizer col-md-3 col-lg-3"></div>
-					<div class="col-lg-6 col-md-6 all following">
+					<div class="grid-sizer col-md-4 col-lg-4"></div>
+
+					<div class="col-lg-4 col-md-6 all back popular">
 						<div class="single_portfolio">
-							<img class="img-fluid w-100" src="img/portfolio/pic1.png" alt="">
+							<img class="img-fluid w-100" src="img/portfolio/back01.png" alt="">
 							<div class="overlay"></div>
 							<div class="short_info">
-								<h4><a href="portfolio-details.html">The Smart School Bell System</a></h4>
-								<p>IOT, Programming</p>
+								<h4><a href="https://battiwestzone.lk">Back End Development for Zonal Education Office</a></h4>
+								<p>Laravel Development</p>
 							</div>
 						</div>
 					</div>
 
-					<div class="col-lg-6 col-md-6 all latest popular upcoming">
+					<div class="col-lg-4 col-md-6 all front">
 						<div class="single_portfolio">
 							<img class="img-fluid w-100" src="img/portfolio/pic2.png" alt="">
 							<div class="overlay"></div>
 							<div class="short_info">
-								<h4><a href="portfolio-details.html">Zonal Education Office Website</a></h4>
+								<h4><a href="https://battiwestzone.lk">Zonal Education Office Website</a></h4>
 								<p>Website, Laravel Development</p>
 							</div>
 						</div>
 					</div>
 
-					<div class="col-lg-3 col-md-6 all latest following">
+					<div class="col-lg-4 col-md-6 all front">
 						<div class="single_portfolio">
 							<img class="img-fluid w-100" src="img/portfolio/pic3.png" alt="">
 							<div class="overlay"></div>
 							<div class="short_info">
-								<h4><a href="portfolio-details.html">Junior School Web Application</a></h4>
+								<h4><a href="https://btkjs.edu.lk">Junior School Web Application</a></h4>
 								<p>Website, Laravel Development</p>
 							</div>
 						</div>
 					</div>
 
-					<div class="col-lg-3 col-md-6 all latest upcoming">
+					<div class="col-lg-4 col-md-6 all front">
 						<div class="single_portfolio">
 							<img class="img-fluid w-100" src="img/portfolio/pic4.png" alt="">
 							<div class="overlay"></div>
 							<div class="short_info">
 								<h4><a href="portfolio-details.html">Science Navigators Quiz Application</a></h4>
 								<p>Website, Laravel Development</p>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-lg-4 col-md-6 all back">
+						<div class="single_portfolio">
+							<img class="img-fluid w-100" src="img/portfolio/back02.png" alt="">
+							<div class="overlay"></div>
+							<div class="short_info">
+								<h4><a href="https://btkjs.edu.lk">Back End Development for Junior School</a></h4>
+								<p>Laravel Development</p>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-lg-4 col-md-6 all back">
+						<div class="single_portfolio">
+							<img class="img-fluid w-100" src="img/portfolio/back03.png" alt="">
+							<div class="overlay"></div>
+							<div class="short_info">
+								<h4><a href="https://learn.scinav.org">Quiz App Development for Junior School</a></h4>
+								<p>Laravel Development</p>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-lg-4 col-md-6 all package">
+						<div class="single_portfolio">
+							<img class="img-fluid w-100" src="img/portfolio/pic1.png" alt="">
+							<div class="overlay"></div>
+							<div class="short_info">
+								<h4><a href="https://bell.gitleaf.com">The Smart School Bell System</a></h4>
+								<p>IOT, Programming</p>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-lg-4 col-md-6 all package popular">
+						<div class="single_portfolio">
+							<img class="img-fluid w-100" src="img/portfolio/pack01.png" alt="">
+							<div class="overlay"></div>
+							<div class="short_info">
+								<h4><a href="https://www.npmjs.com/package/vue-mailer">VUE-Mailer Open source Package</a></h4>
+								<p>NPM Javascript Development</p>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-lg-4 col-md-6 all package popular">
+						<div class="single_portfolio">
+							<img class="img-fluid w-100" src="img/portfolio/pack01.png" alt="">
+							<div class="overlay"></div>
+							<div class="short_info">
+								<h4><a href="https://packagist.org/packages/katheesh/visitorinfo">visitorinfo Open source Package</a></h4>
+								<p>Composer Package Development</p>
 							</div>
 						</div>
 					</div>
