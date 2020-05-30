@@ -224,7 +224,7 @@
 							<img class="img-fluid w-100" src="img/portfolio/back03.png" alt="">
 							<div class="overlay"></div>
 							<div class="short_info">
-								<h4><a href="https://learn.scinav.org">Quiz App Development for Junior School</a></h4>
+								<h4><a href="https://learn.scinav.org">Quiz App Development for Science Navigators</a></h4>
 								<p>Laravel Development</p>
 							</div>
 						</div>
@@ -254,7 +254,7 @@
 
 					<div class="col-lg-4 col-md-6 all package popular">
 						<div class="single_portfolio">
-							<img class="img-fluid w-100" src="img/portfolio/pack01.png" alt="">
+							<img class="img-fluid w-100" src="img/portfolio/pack02.png" alt="">
 							<div class="overlay"></div>
 							<div class="short_info">
 								<h4><a href="https://packagist.org/packages/katheesh/visitorinfo">visitorinfo Open source Package</a></h4>
