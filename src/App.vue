@@ -19,7 +19,7 @@
               <li class="nav-item"><router-link to="/about"><a class="nav-link">About</a></router-link></li>
               <li class="nav-item"><router-link to="/blogs"><a class="nav-link">Blog</a></router-link></li>
               <li class="nav-item"><router-link to="/contact"><a class="nav-link">Contact</a></router-link></li>
-              <li class="nav-item"><a href="/console/index.html" class="nav-link">CLI Version</a></li>
+              <li class="nav-item"><a href="/cli/index.html" class="nav-link">CLI Version</a></li>
             </ul>
           </div>
         </div>
