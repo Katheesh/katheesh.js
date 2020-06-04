@@ -38,7 +38,8 @@
                             <a class="d-inline-block">
                                 <h2>Hello World by Katheesh</h2>
                             </a></router-link>
-                            <p>Hi my dear friends, This is my first blog. I will try to write blog to share my tricks and techniques with others. "Hello, World!" program generally is a computer program that outputs or displays the message "Hello, World!". Such a program is very simple in most programming languages, and is often used to illustrate the basic syntax of a programming language. It is often the first program written by people learning to code</p>
+                            <p>Hi my dear friends, This is my first blog. I will try to write blog to share my tricks and techniques with others. </p>
+                            <p>"Hello, World!" program generally is a computer program that outputs or displays the message "Hello, World!". Such a program is very simple in most programming languages, and is often used to illustrate the basic syntax of a programming language. It is often the first program written by people learning to code </p>
                             <ul class="blog-info-link">
                               <li><a href="#"><i class="far fa-user"></i> Katheesh </a></li>
                             </ul>
