@@ -20,8 +20,6 @@
 							    	<a target="_blank" href="https://www.npmjs.com/package/@katheesh/mailer-js"><pre style="display: inline; font-size: 15px"> @katheesh/mailer-js </pre></a>Package Collaborator </a>
 						    </div>
 
-							<a href="https://www.patreon.com/bePatron?u=32135007"><img src="https://i.ya-webdesign.com/images/patreon-link-button-png-2.png" height="100"></a>
-
 							<div class="social_icons my-5" style="padding: auto;">
 								<a target="_blank" href="https://stackoverflow.com/story/katheesh">
 									<img src="img/icon/stackoverflow.png">
@@ -45,6 +43,8 @@
 									<img src="img/icon/instagram.png">
 								</a>
 							</div> 
+
+							<a href="https://www.patreon.com/bePatron?u=32135007"><img src="https://i.ya-webdesign.com/images/patreon-link-button-png-2.png" height="60"></a>
 						</div>
 					</div>
 					<div class="col-lg-4">
