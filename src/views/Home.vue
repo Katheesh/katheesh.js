@@ -20,7 +20,7 @@
 
 							<a href="https://www.patreon.com/bePatron?u=32135007"><img src="https://i.ya-webdesign.com/images/patreon-link-button-png-2.png" height="100"></a>
 
-							<div class="social_icons my-5">
+							<div class="social_icons my-5" style="padding: auto;">
 								<a target="_blank" href="https://stackoverflow.com/story/katheesh">
 									<img src="img/icon/stackoverflow.png">
 								</a>
@@ -30,13 +30,18 @@
 								<a target="_blank" href="https://github.com/katheesh">
 									<img src="img/icon/github.png">
 								</a>
+								<a target="_blank" href="https://codepen.io/katheesh">
+									<img src="img/icon/codepen.png">
+								</a>
 								<a target="_blank" href="https://dev.to/katheesh">
 									<img src="img/icon/dev.png">
 								</a>
-								<a target="_blank" href="https://www.twitter.com/iKatheesh"><i class="ti-twitter"></i></a>
-								<a target="_blank" href="https://www.facebook.com/iKatheesh"><i class="ti-facebook"></i></a>
-								<a target="_blank" href="https://www.instagram.com/iKatheesh"><i class="ti-instagram"></i></a>
-								<a target="_blank" href="https://www.linkedin.com/katheeskumar"><i class="ti-linkedin"></i></a>
+								<a target="_blank" href="https://www.linkedin.com/katheeskumar">
+									<img src="img/icon/linkedin.png">
+								</a>
+								<a target="_blank" href="https://www.instagram.com/iKatheesh">
+									<img src="img/icon/instagram.png">
+								</a>
 							</div> 
 						</div>
 					</div>
