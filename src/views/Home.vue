@@ -10,12 +10,14 @@
 					<div class="col-lg-6">
 						<div class="banner_content">
 							<h3>Hey There !</h3>
-							<h1 class="text-uppercase">I am KATHEESH</h1>
+							<h1 class="text-uppercase" style="font-family: 'Courier New';">I am KATHEESH</h1>
 							<h5 class="text-uppercase">Software Engineer & Entrepreneur</h5><br>
 							<h6><strong>❤️ Efficiency consists in a resolute mind.</strong></h6> <br>
 							<github-button href="https://github.com/katheesh" data-size="large" data-show-count="true" aria-label="Follow @katheesh on GitHub">katheesh</github-button>
 							<div style="margin-top: 30px; margin-bottom: 20px;">
-							    <a target="_blank" href="https://www.npmjs.com/package/vue-mailer"><img height="30" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJcAAAA7CAMAAABBn+jeAAAAJFBMVEX////LODfJKCfot7bgmJfOSUnFAADuy8v14eHGEA7kqKfXdXRcp15cAAAA+0lEQVRoge3Z4Q7CIAwEYCiMse3939cYwSUlpaCSkXn3y7Bb/WaiJmDsnDFXA4TA1Re4+jK9i9SMaIq3Zhd5p4UGNHk8cddqtITe5hbVJs9auNwAl97kcXDBBVfFdX7XNVfRFF2Rv3ovNLhs2J4JXnVRau6q61U8mzEvZFiDa0kXdFceobuIvVncUhMuuOCCCy644Pp3F83pOlIca17tKgIXXHDd01XMyC7+a/nN/hd3Ge4q9r/swmP5FfkJpFubZ9qi0b/vK/4//jRw9QWuvkzr6j6KqLg+ON+QYnxzxFOMzDraZ6nhz15JkD6VvL7rM0Yk2Hrggguum7oeyc0jXd/03kcAAAAASUVORK5CYII="><a target="_blank" href="https://www.npmjs.com/package/@katheesh/mailer-js"><pre style="display: inline; font-size: 15px"> @katheesh/mailer-js </pre></a>&<a target="_blank" href="https://www.npmjs.com/package/vue-mailer"><pre style="display: inline; font-size: 15px"> vue-mailer </pre></a>Package Collaborator </a>
+							    <a target="_blank" href="ttps://www.npmjs.com/package/@katheesh/mailer-js">
+							    	<img height="30" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJcAAAA7CAMAAABBn+jeAAAAJFBMVEX////LODfJKCfot7bgmJfOSUnFAADuy8v14eHGEA7kqKfXdXRcp15cAAAA+0lEQVRoge3Z4Q7CIAwEYCiMse3939cYwSUlpaCSkXn3y7Bb/WaiJmDsnDFXA4TA1Re4+jK9i9SMaIq3Zhd5p4UGNHk8cddqtITe5hbVJs9auNwAl97kcXDBBVfFdX7XNVfRFF2Rv3ovNLhs2J4JXnVRau6q61U8mzEvZFiDa0kXdFceobuIvVncUhMuuOCCCy644Pp3F83pOlIca17tKgIXXHDd01XMyC7+a/nN/hd3Ge4q9r/swmP5FfkJpFubZ9qi0b/vK/4//jRw9QWuvkzr6j6KqLg+ON+QYnxzxFOMzDraZ6nhz15JkD6VvL7rM0Yk2Hrggguum7oeyc0jXd/03kcAAAAASUVORK5CYII=">
+							    	<a target="_blank" href="https://www.npmjs.com/package/@katheesh/mailer-js"><pre style="display: inline; font-size: 15px"> @katheesh/mailer-js </pre></a>Package Collaborator </a>
 						    </div>
 
 							<a href="https://www.patreon.com/bePatron?u=32135007"><img src="https://i.ya-webdesign.com/images/patreon-link-button-png-2.png" height="100"></a>
