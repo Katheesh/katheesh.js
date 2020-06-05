@@ -21,6 +21,18 @@
 							<a href="https://www.patreon.com/bePatron?u=32135007"><img src="https://i.ya-webdesign.com/images/patreon-link-button-png-2.png" height="100"></a>
 
 							<div class="social_icons my-5">
+								<a target="_blank" href="https://stackoverflow.com/story/katheesh">
+									<img src="img/icon/stackoverflow.png">
+								</a>
+								<a target="_blank" href="https://gitlab.com/katheesh">
+									<img src="img/icon/gitlab.png">
+								</a>
+								<a target="_blank" href="https://github.com/katheesh">
+									<img src="img/icon/github.png">
+								</a>
+								<a target="_blank" href="https://dev.to/katheesh">
+									<img src="img/icon/dev.png">
+								</a>
 								<a target="_blank" href="https://www.twitter.com/iKatheesh"><i class="ti-twitter"></i></a>
 								<a target="_blank" href="https://www.facebook.com/iKatheesh"><i class="ti-facebook"></i></a>
 								<a target="_blank" href="https://www.instagram.com/iKatheesh"><i class="ti-instagram"></i></a>
