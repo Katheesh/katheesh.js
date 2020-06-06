@@ -21,25 +21,25 @@
 						    </div>
 
 							<div class="social_icons my-5" style="padding: auto;">
-								<a target="_blank" href="https://stackoverflow.com/story/katheesh">
+								<a title="Stackoverflow" target="_blank" href="https://stackoverflow.com/story/katheesh">
 									<img src="img/icon/stackoverflow.png">
 								</a>
-								<a target="_blank" href="https://gitlab.com/katheesh">
+								<a title="GitLab" target="_blank" href="https://gitlab.com/katheesh">
 									<img src="img/icon/gitlab.png">
 								</a>
-								<a target="_blank" href="https://github.com/katheesh">
+								<a title="GitHub" target="_blank" href="https://github.com/katheesh">
 									<img src="img/icon/github.png">
 								</a>
-								<a target="_blank" href="https://codepen.io/katheesh">
+								<a title="CodePen" target="_blank" href="https://codepen.io/katheesh">
 									<img src="img/icon/codepen.png">
 								</a>
-								<a target="_blank" href="https://dev.to/katheesh">
+								<a title="Dev Blog" target="_blank" href="https://dev.to/katheesh">
 									<img src="img/icon/dev.png">
 								</a>
-								<a target="_blank" href="https://www.linkedin.com/katheeskumar">
+								<a title="LinkedIn" target="_blank" href="https://www.linkedin.com/katheeskumar">
 									<img src="img/icon/linkedin.png">
 								</a>
-								<a target="_blank" href="https://www.instagram.com/iKatheesh">
+								<a title="Instagram" target="_blank" href="https://www.instagram.com/iKatheesh">
 									<img src="img/icon/instagram.png">
 								</a>
 							</div> 
