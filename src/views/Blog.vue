@@ -21,8 +21,8 @@
           <div class="row">
               <div class="col-lg-8 mb-5 mb-lg-0">
                   <div class="blog_left_sidebar">    
-                      <article class="blog_item">                       
-                        <div v-for="blog in Blogs" :key="blog.id" class="blog_details">
+                      <article  v-for="blog in Blogs" :key="blog.id"  class="blog_item">                     
+                        <div class="blog_details">
                             <a v-bind:href="blog.url" target="_blank" class="d-inline-block">
                                 <h2>{{blog.title}}</h2>
                             </a>
@@ -92,7 +92,7 @@ export default {
    mounted() {
        axios({
               method: 'get',
-              url: 'https://dev.to/api/articles?username=katheesh',
+              url: 'https://dev.to/api/articles?username=katheesh&per_page=%2220%22',
             })
             .then(response => {
               this.Blogs = response.data
