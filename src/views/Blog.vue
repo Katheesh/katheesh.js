@@ -28,9 +28,12 @@
                             </a>
                             <p>{{blog.description}}</p>
                             <ul class="blog-info-link">
+                              <li><a href="#"><i class="far fa-calendar"></i>{{blog.readable_publish_date}}</a></li>
                               <li><a href="#"><i class="fa fa-heart"></i> {{blog.public_reactions_count}}</a></li>
                               <li><a href="#"><i class="far fa-user"></i>{{blog.user.name}}</a></li>
-                              <li><a href="#"><i class="far fa-comments"></i> {{blog.comments_count}} Comments</a></li>
+                              <li><a href="#"><i class="far fa-comments"></i> {{blog.comments_count}} Comment(s)</a></li>
+                              <li><a href="#"><i class="fa fa-tag"></i>{{blog.tags}}</a></li>
+
                             </ul>
                         </div>
                       </article>
@@ -96,7 +99,7 @@ export default {
             })
             .then(response => {
               this.Blogs = response.data
-              console.log(response.data)
+              //console.log(response.data)
             })
             .catch(() => console.log('error occured'))
    },
