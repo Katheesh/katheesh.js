@@ -40,15 +40,6 @@ const routes = [
     meta: {
       title: 'Contact - KATHEESH\'s official Website',
     }
-  },
-  {
-    path: "/blog/:id",
-    name: "Single_blog",
-    component: () =>
-      import("../views/Single_blog.vue"),
-    meta: {
-      title: 'Blog View - KATHEESH\'s official Website',
-    }
   }
 ];
 
