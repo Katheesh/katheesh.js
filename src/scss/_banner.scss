@@ -79,22 +79,22 @@
 .banner_area {
     position: relative;
     z-index: 1;
-    // min-height: 485px;
+    // min-height: 285px;
     @media (max-width: 1199px) {
-        min-height: 350px;
+        min-height: 150px;
     }
     .banner_inner {
         position: relative;
         overflow: hidden;
         width: 100%;
-        min-height: 450px;
+        min-height: 250px;
         background: url(/../img/banner/common-banner.png) no-repeat right bottom;
         // background-size: 90% 85%;
         // width: 98%;
         background-size: cover;
         z-index: 1;
         @media (max-width: 1199px) {
-            min-height: 350px;
+            min-height: 150px;
         }
         // @media (max-width: 991px) {
         //     background: $primary-color2;
