@@ -22,15 +22,15 @@
               <div class="col-lg-8 mb-5 mb-lg-0">
                   <div class="blog_left_sidebar">    
                       <article class="blog_item">                       
-                        <div class="blog_details">
-                        	<router-link to="/blog/02">
-                            <a class="d-inline-block">
-                                <h2>Google inks pact for new 35-storey office</h2>
-                            </a></router-link>
-                            <p>That dominion stars lights dominion divide years for fourth have don't stars is that he earth it first without heaven in place seed it second morning saying.</p>
+                        <div v-for="blog in Blogs" :key="blog.id" class="blog_details">
+                            <a v-bind:href="blog.url" target="_blank" class="d-inline-block">
+                                <h2>{{blog.title}}</h2>
+                            </a>
+                            <p>{{blog.description}}</p>
                             <ul class="blog-info-link">
-                              <li><a href="#"><i class="far fa-user"></i> Travel, Lifestyle</a></li>
-                              <li><a href="#"><i class="far fa-comments"></i> 03 Comments</a></li>
+                              <li><a href="#"><i class="fa fa-heart"></i> {{blog.public_reactions_count}}</a></li>
+                              <li><a href="#"><i class="far fa-user"></i>{{blog.user.name}}</a></li>
+                              <li><a href="#"><i class="far fa-comments"></i> {{blog.comments_count}} Comments</a></li>
                             </ul>
                         </div>
                       </article>
@@ -74,6 +74,7 @@
 <script>
 
 import Footer from '@/components/Footer.vue'
+import axios from 'axios';
 
 export default {
    name: 'Home',
@@ -84,8 +85,20 @@ export default {
       return {
          input:{
             subscribe : ""
-         } 
+         },
+         Blogs : []
       };
+   },
+   mounted() {
+       axios({
+              method: 'get',
+              url: 'https://dev.to/api/articles?username=katheesh',
+            })
+            .then(response => {
+              this.Blogs = response.data
+              console.log(response.data)
+            })
+            .catch(() => console.log('error occured'))
    },
    methods: {
       subscribe() {
