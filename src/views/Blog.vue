@@ -4,7 +4,6 @@
       <div class="banner_inner d-flex align-items-center">
           <div class="container">
               <div class="banner_content text-center">
-                  <h2>My Blogs</h2>
                   <div class="page_link">
                       <router-link to="/"><a>Home</a></router-link>
                       <router-link to="/blogs"><a>Blogs</a></router-link>
@@ -50,7 +49,7 @@
                                 </div>
                               </div>
                             </div>
-                            <button class="primary_btn rounded-0 primary-bg text-white w-100" type="submit">Search</button>
+                            <button class="primary_btn rounded-0 primary-bg text-white w-100" style="background-color: black;" type="submit">Search</button>
                       </aside>
                       <aside class="single_sidebar_widget newsletter_widget">
                         <h4 class="widget_title">Newsletter</h4>
