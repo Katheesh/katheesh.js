@@ -40,6 +40,15 @@ const routes = [
     meta: {
       title: 'Contact - KATHEESH\'s official Website',
     }
+  },
+  {
+    path: "/thanks",
+    name: "Thanks",
+    component: () =>
+      import("../views/Thanks.vue"),
+    meta: {
+      title: 'Thanks a lot - KATHEESH\'s official Website',
+    }
   }
 ];
 
