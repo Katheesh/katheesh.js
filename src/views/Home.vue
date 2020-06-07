@@ -1,7 +1,6 @@
 <template>
   <div class="home">
   <!--================ End Header Area =================-->
-
 	<!--================ Start Home Banner Area =================-->
 	<section class="home_banner_area">
 		<div class="banner_inner">
@@ -10,7 +9,7 @@
 					<div class="col-lg-6">
 						<div class="banner_content">
 							<h3>Hey There !</h3>
-							<h1 class="text-uppercase" style="font-family: 'Courier New';">I am KATHEESH</h1>
+							<h1 class="text-uppercase">I am KATHEESH</h1>
 							<h5 class="text-uppercase">Software Engineer & Entrepreneur</h5><br>
 							<h6><strong>❤️ Efficiency consists in a resolute mind.</strong></h6> <br>
 							<github-button href="https://github.com/katheesh" data-size="large" data-show-count="true" aria-label="Follow @katheesh on GitHub">katheesh</github-button>
