@@ -176,6 +176,7 @@
 					<li data-filter=".front">Front-End Design</li>
 					<li data-filter=".back">Backend Dashboards</li>
 					<li data-filter=".package">Packages</li>
+					<li data-filter=".desktop">Desktop Apps</li>
 				</ul>
 			</div>
 
@@ -281,12 +282,22 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-4 col-md-6 all desktop">
+					<div class="col-lg-4 col-md-6 all desktop front">
 						<div class="single_portfolio">
 							<img class="img-fluid w-100" src="img/portfolio/desk1.png" alt="">
 							<div class="overlay"></div>
 							<div class="short_info">
-								<h4><a href="#">This premium application Developed for tamil Students career evaluation </a></h4>
+								<h4><a href="https://aulanka.com">This premium application Developed for tamil Students career evaluation </a></h4>
+								<p>Developed by Electron Js</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6 all desktop front">
+						<div class="single_portfolio">
+							<img class="img-fluid w-100" src="img/portfolio/desk2.png" alt="">
+							<div class="overlay"></div>
+							<div class="short_info">
+								<h4><a href="https://github.com/Katheesh/passwordManager">This open source application Developed for store secret credintials </a></h4>
 								<p>Developed by Electron Js</p>
 							</div>
 						</div>
