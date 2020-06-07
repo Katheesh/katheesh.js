@@ -36,12 +36,12 @@
 								<a title="Dev Blog" target="_blank" href="https://dev.to/katheesh">
 									<img src="img/icon/dev.png">
 								</a>
-								<a title="LinkedIn" target="_blank" href="https://www.linkedin.com/katheeskumar">
+								<!-- <a title="LinkedIn" target="_blank" href="https://www.linkedin.com/in/katheeskumar">
 									<img src="img/icon/linkedin.png">
 								</a>
 								<a title="Instagram" target="_blank" href="https://www.instagram.com/iKatheesh">
 									<img src="img/icon/instagram.png">
-								</a>
+								</a> -->
 							</div> 
 
 							<a href="https://www.patreon.com/bePatron?u=32135007"><img src="https://i.ya-webdesign.com/images/patreon-link-button-png-2.png" height="60"></a>
