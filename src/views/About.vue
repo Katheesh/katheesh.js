@@ -30,7 +30,7 @@
 					<div class="main_title text-left">
 						<p class="top_text">About me <span></span></p>
 						<h2>
-							Software Engineer <br>& Entrepreneur
+							Software Engineer 👨‍💻 <br>& Entrepreneur
 						</h2>
 						<p>
 							“I love to program and have done so for 10,000 hours over the past four years. I’m great at knowing the right algorithm for a problem because I read computer science literature constantly. I like Algorithms based problems. I love working with people to do things bigger than I could accomplish alone. I’m motivated by big problems, and I think you’ve got some here that I can help solve.”
@@ -56,7 +56,7 @@
                                     <div class="col-md-6">
                                        <div class="col-resume">
                                           <h6 class="resume-title" style="text-align: center; margin: 25px; font-size: 22px;">
-                                             Education
+                                            📗 Education 
                                           </h6>
                                           <div class="resume-content">
                                              <div class="resume-inner">
@@ -91,7 +91,7 @@
                                     <div class="col-md-6">
                                        <div class="col-resume">
                                           <h6 class="resume-title" style="text-align: center; margin: 25px; font-size: 22px;">
-                                             Experience
+                                             👷 Experience
                                           </h6>
                                           <div class="resume-content">
                                              <div class="resume-inner">
