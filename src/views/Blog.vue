@@ -23,15 +23,15 @@
                       <article  v-for="blog in Blogs" :key="blog.id"  class="blog_item">                     
                         <div class="blog_details">
                             <a v-bind:href="blog.url" target="_blank" class="d-inline-block">
-                                <h2>{{blog.title}}</h2>
+                                <h2>💥 {{blog.title}}</h2>
                             </a>
-                            <p>{{blog.description}}</p>
+                            <p style="color: black;">📌 {{blog.description}}</p>
                             <ul class="blog-info-link">
-                              <li><a href="#"><i class="far fa-calendar"></i>{{blog.readable_publish_date}}</a></li>
-                              <li><a href="#"><i class="fa fa-heart"></i> {{blog.public_reactions_count}}</a></li>
-                              <li><a href="#"><i class="far fa-user"></i>{{blog.user.name}}</a></li>
-                              <li><a href="#"><i class="far fa-comments"></i> {{blog.comments_count}} Comment(s)</a></li>
-                              <li><a href="#"><i class="fa fa-tag"></i>{{blog.tags}}</a></li>
+                              <li><a v-bind:href="blog.url">📆 {{blog.readable_publish_date}}</a></li>
+                              <li><a v-bind:href="blog.url">❤️ {{blog.public_reactions_count}}</a></li>
+                              <li><a v-bind:href="blog.url">👨‍💻 {{blog.user.name}}</a></li>
+                              <li><a v-bind:href="blog.url">📝 {{blog.comments_count}} Comment(s)</a></li>
+                              <li><a v-bind:href="blog.url">🔖 {{blog.tags}}</a></li>
 
                             </ul>
                         </div>
