@@ -90,31 +90,31 @@
                         <div class="panel-heading">
                             <h4 class="panel-title">
                                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour">
-                                    Used Recreational Vehicles
+                                    Web developer Job
                                 </a>
                             </h4>
-                        </div><!--/.panel-heading -->
+                        </div>
                         <div id="collapseFour" class="panel-collapse collapse">
                             <div class="panel-body">
                                 Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-                            </div><!--/.panel-body -->
-                        </div><!--/.panel-collapse -->
-                    </div><!-- /.panel -->
+                            </div>
+                        </div>
+                    </div>
 
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
                                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive">
-                                    Lorem Ipsum
+                                    Data Entry Operator
                                 </a>
                             </h4>
-                        </div><!--/.panel-heading -->
+                        </div>
                         <div id="collapseFive" class="panel-collapse collapse">
                             <div class="panel-body">
                                 Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-                            </div><!--/.panel-body -->
-                        </div><!--/.panel-collapse -->
-                    </div><!-- /.panel -->
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
             <div role="tabpanel" class="tab-pane" id="checking-savings-rates">
@@ -123,31 +123,46 @@
                         <div class="panel-heading">
                             <h4 class="panel-title">
                                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSix">
-                                    Lorem Ipsum
+                                    Platinum Sponsor
                                 </a>
                             </h4>
-                        </div><!--/.panel-heading -->
+                        </div>
                         <div id="collapseSix" class="panel-collapse collapse">
                             <div class="panel-body">
-                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-                            </div><!--/.panel-body -->
-                        </div><!--/.panel-collapse -->
-                    </div><!-- /.panel -->
+                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.
+                            </div>
+                        </div>
+                    </div>
 
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
                                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven">
-                                    Lorem Ipsum
+                                    Golden Sponsor
                                 </a>
                             </h4>
-                        </div><!--/.panel-heading -->
+                        </div>
                         <div id="collapseSeven" class="panel-collapse collapse">
                             <div class="panel-body">
-                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-                            </div><!--/.panel-body -->
-                        </div><!--/.panel-collapse -->
-                    </div><!-- /.panel -->
+                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseEight">
+                                    Silver Sponsor
+                                </a>
+                            </h4>
+                        </div>
+                        <div id="collapseEight" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.
+                            </div>
+                        </div>
+                    </div>
                   </div>
             </div>
         </div>
@@ -181,14 +196,14 @@ export default {
 .rates-page-tabs .nav-tabs>li>a {
   border: none;
   text-transform: uppercase;
-  margin-right: 30px;
+  margin-right: 10px;
   color: #303030;
   font-size: 15px;
 }
 
 .rates-page-tabs .nav-tabs>li>a:hover,
 .rates-page-tabs .nav-tabs>li>a:focus {
-  color: ;
+  color: brown;
   background-color: white;
   box-shadow: 0px -2px 0px brown inset;
 }

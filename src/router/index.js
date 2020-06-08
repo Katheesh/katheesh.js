@@ -47,7 +47,7 @@ const routes = [
     component: () =>
       import("../views/Thanks.vue"),
     meta: {
-      title: 'Thanks a lot - KATHEESH\'s official Website',
+      title: 'Thanks a lot! - KATHEESH\'s official Website',
     }
   }
 ];

@@ -249,7 +249,7 @@
 						</div>
 					</div>
 
-					<div class="col-lg-4 col-md-6 all package">
+					<div class="col-lg-4 col-md-6 all desktop">
 						<div class="single_portfolio">
 							<img class="img-fluid w-100" src="img/portfolio/pic1.png" alt="">
 							<div class="overlay"></div>
