@@ -221,7 +221,7 @@
 							<img class="img-fluid w-100" src="img/portfolio/pic4.png" alt="">
 							<div class="overlay"></div>
 							<div class="short_info">
-								<h4><a href="portfolio-details.html">Science Navigators Quiz Application</a></h4>
+								<h4><a href="https://learn.scinav.org">Science Navigators Quiz Application</a></h4>
 								<p>Website, Laravel Development</p>
 							</div>
 						</div>
