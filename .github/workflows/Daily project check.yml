@@ -7,23 +7,19 @@ on:
 
 jobs:
   build:
-
+    
+    # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
-    strategy:
-      matrix:
-        node-version: [8.x, 10.x, 12.x]
-        os: [ubuntu-latest, windows-latest, macOS-latest]
-
+    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    - uses: actions/checkout@v1
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v1
-      with:
-        node-version: ${{ matrix.node-version }}
-    - name: project check
+    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    - uses: actions/checkout@v2
+
+    # Runs a set of commands using the runners shell
+    - name: Run a multi-line script
       run: |
-        npm i
+        npm install
         npm run clearCache
         npm run build
       env:
