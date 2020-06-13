@@ -48,8 +48,9 @@
 					</div>
 					<div class="col-lg-4">
 						<div class="home_right_img">
-							<img class="img-fluid" src="img/banner/home-right.png" alt="">
+							<img class="img-fluid" src="img/banner/home-right.png">
 						</div>
+
 					</div>
 				</div>
 			</div>
