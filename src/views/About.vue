@@ -20,13 +20,13 @@
 	<section class="about_area section_gap">
 		<div class="container">
 			<div class="row justify-content-start align-items-center">
-				<div class="col-lg-5">
+				<div class="col-lg-5" data-aos="fade-up">
 					<div class="about_img">
 						<img class="" src="img/about-us.png" alt="">
 					</div>
 				</div>
 
-				<div class="offset-lg-1 col-lg-5">
+				<div class="offset-lg-1 col-lg-5" data-aos="fade-up">
 					<div class="main_title text-left">
 						<p class="top_text">About me <span></span></p>
 						<h2>
@@ -53,7 +53,7 @@
                            <div class="container">
                               <div class="intro">
                                  <div class="row">
-                                    <div class="col-md-6">
+                                    <div class="col-md-6" data-aos="fade-up">
                                        <div class="col-resume">
                                           <h6 class="resume-title" style="text-align: center; margin: 25px; font-size: 22px;">
                                             📗 Education 
@@ -88,7 +88,7 @@
                                           </div>
                                        </div>
                                     </div>
-                                    <div class="col-md-6">
+                                    <div class="col-md-6" data-aos="fade-up">
                                        <div class="col-resume">
                                           <h6 class="resume-title" style="text-align: center; margin: 25px; font-size: 22px;">
                                              👷 Experience
