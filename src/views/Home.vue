@@ -61,7 +61,7 @@
 	<!--================ Start Statistics Area =================-->
 	<section class="statistics_area">
 		<div class="container">
-			<div class="row justify-content-lg-start justify-content-center">
+			<div class="row justify-content-lg-start justify-content-center" data-aos="fade-up">
 				<div class="col-lg-2 col-md-3">
 					<div class="statistics_item">
 						<h3><span class="counter">3</span>+</h3>
@@ -88,7 +88,7 @@
 	<!--================ Start About Us Area =================-->
 	<section class="about_area section_gap">
 		<div class="container">
-			<div class="row justify-content-start align-items-center">
+			<div class="row justify-content-start align-items-center" data-aos="fade-up">
 				<div class="col-lg-5">
 					<div class="about_img">
 						<img class="" src="img/about-us.png" alt="">
@@ -114,7 +114,7 @@
 
 	<!--================ Start Features Area =================-->
 	<section class="services_area">
-		<div class="container">
+		<div class="container" data-aos="fade-up">
 			<div class="row">
 				<div class="col-lg-12">
 					<div class="main_title">
@@ -159,7 +159,7 @@
 
 	<!--================ Start Portfolio Area =================-->
 	<section class="portfolio_area" id="portfolio">
-		<div class="container">
+		<div class="container" data-aos="fade-up">
 			<div class="row">
 				<div class="col-lg-12">
 					<div class="main_title">
