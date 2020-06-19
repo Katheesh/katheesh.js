@@ -20,7 +20,7 @@
           <div class="row">
               <div class="col-lg-8 mb-5 mb-lg-0">
                   <div class="blog_left_sidebar">    
-                      <article  v-for="blog in Blogs" :key="blog.id"  class="blog_item">                     
+                      <article  v-for="blog in Blogs" :key="blog.id"  class="blog_item" data-aos="fade-up">                     
                         <div class="blog_details">
                             <a v-bind:href="blog.url" target="_blank" class="d-inline-block">
                                 <h2>💥 {{blog.title}}</h2>
@@ -40,7 +40,7 @@
               </div>
               <div class="col-lg-4">
                   <div class="blog_right_sidebar">
-                      <aside class="single_sidebar_widget search_widget">
+                      <aside class="single_sidebar_widget search_widget" data-aos="fade-up">
                             <div class="form-group">
                               <div class="input-group mb-3">
                                 <input type="text" class="form-control" placeholder="Search Keyword">
@@ -51,7 +51,7 @@
                             </div>
                             <button class="primary_btn rounded-0 primary-bg text-white w-100" style="background-color: black;" type="submit">Search</button>
                       </aside>
-                      <aside class="single_sidebar_widget newsletter_widget">
+                      <aside class="single_sidebar_widget newsletter_widget" data-aos="fade-up"> 
                         <h4 class="widget_title">Newsletter</h4>
 
                         <form action="#">
